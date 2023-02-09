@@ -24,7 +24,7 @@ public class SuperCat extends Pet{
 			return (((Tomcat) felidae).tellYourAge(this));
 		}
 	}
-	
+
 	// Frag irgendeine Katze --> Name
 	// (Dog) pet | (SuperCat) pet :: Downcasting
 	public String getName(Pet pet) {
